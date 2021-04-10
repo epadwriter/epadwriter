@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Epad913
-- 👀 I’m interested in java, angular, react, android, ios.
-- 🌱 I’m currently learning angular, ios dev (swift), Android dev
+- 👀 I’m interested in java, react, android, ios.
+- 🌱 I’m currently learning ios dev (swift), Android dev
 - 💞️ I’m looking to collaborate on java, angular, ios dev, Android dev
 - 📫 Paulmitnick at hotmail.com
 
