@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Edgardo</h1>
-<h3 align="center">A passionate software developer from Colombia.</h3>
+<h1 align="center">Hi 👋, My name is Edgardo</h1>
+<h3 align="center">I'm a passionate software developer from Colombia, Author and Fiction Writer,  Marketing & business tutor, and Amateur chess player.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epadwriter&label=Profile%20views&color=0e75b6&style=flat" alt="epadwriter" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/epadwriter" target="blank"><img src="https://img.shields.io/twitter/follow/epadwriter?logo=twitter&style=for-the-badge" alt="epadwriter" /></a> </p>
 
-- 🔭 I’m currently working on **Java, Kotlin**
+- 🔭 I’m currently Freelancer **Java, Android Apps with Kotlin, Desktop applications with JavaFX, etc**
 
-- 🌱 I’m currently learning **Swift,React, Xamarin**
+- 🌱 I’m currently learning **Swift, React, Xamarin, and plus...**
 
-- 👯 I’m looking to collaborate on **Java Backend**
+- 👯 I’m looking to collaborate on **Java Backend and android development (Kotlin)**
 
 - 📫 How to reach me **paulmitnick@hotmail.com**
 
