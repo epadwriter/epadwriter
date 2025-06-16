@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, My name is Edgardo</h1>
-<h3 align="center">I'm a passionate software developer, also I`m an Author,  Marketing & business tutor, and Amateur chess player.</h3>
+<h3 align="center">Software developer. Author. Podcaster</h3>
 
 - 🔭 I’m currently Freelancer **Java, Android Apps with Kotlin, Desktop applications with JavaFX, etc**
 
-- 🌱 I’m currently learning **Everything like Swift, React, Xamarin, Flutter and more...**
+- 🌱 I’m currently learning **Everything like Swift, React, Flutter and more...**
 
 - 👯 I’m looking to collaborate on **Java Backend, Desktop Applications, android Apps(Kotlin), Etc**
 
